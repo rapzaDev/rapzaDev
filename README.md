@@ -3,7 +3,7 @@
 
 <h3>Hello World! 🌍️</h3>
 <p>
-I have been a Full Stack JS developer since 2020. I am passionate about the development of web and mobile applications, especially the development of the Backend of these applications.
+My name is Rafael Arango Pérez, I have 24 yers old and I have been a Full Stack JS developer since 2020. I am passionate about the development of web and mobile applications, especially the development of the Backend of these applications.
 </p>
 
 #
@@ -20,3 +20,4 @@ I have been a Full Stack JS developer since 2020. I am passionate about the deve
 [![Linkedin Badge](https://img.shields.io/badge/-rapzaDev-0900c3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rapzadev/)](https://www.linkedin.com/in/rapzadev/) 
 
 </div>
+ 
