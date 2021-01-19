@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**rapzaDev/rapzaDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
 
-Here are some ideas to get you started:
+<h3>Hello World! 🌍️</h3>
+<p>
+I have been a Full Stack JS developer since 2020. I am passionate about the development of web and mobile applications, especially the development of the Backend of these applications.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#
+
+
+![rapzaDev github stats](https://github-readme-stats.vercel.app/api?username=rapzaDev&show_icons=true&theme=blueberry)
+
+#
+
+<p><strong>Reach me out 👇️<strong></p>
+
+
+[![Gmail Badge](https://img.shields.io/badge/-rapzadev@gmail.com-8f1d14?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rapzdev@gmail.com)](mailto:rapzdev@gmail.com)
+[![Linkedin Badge](https://img.shields.io/badge/-rapzaDev-0900c3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rapzadev/)](https://www.linkedin.com/in/rapzadev/) 
+
+</div>
