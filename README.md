@@ -6,6 +6,13 @@
 I have been a Full Stack JS developer since 2020. I am passionate about the development of web and mobile applications, especially the development of the Backend of these applications.
 </p>
 
+- From Itajubá/MG, 📍 living in Aracaju/SE
+
+- I'm currently learning about Typescript, React Native, React JS & NodeJs
+
+- Node JS Frameworks: ExpressJS & AdonisJS
+
+- Database Knowledge: PostgreSQL, MongoDB & Redis
 #
 
 
