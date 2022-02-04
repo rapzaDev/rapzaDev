@@ -1,17 +1,16 @@
 <div>
 
-<h3>Hello World! 🌍️</h3>
 <p>
-I have been a Full Stack JS developer since 2020. I am passionate about the development of web and mobile applications, especially the development of the Backend of these applications.
+I'm a Junior Full Stack JavaScript Developer with almost 2 years of experience with hands-on projects and I'm currently more focused on React Native. I'm doing the Rocketseat Boot Camp Full Stack JS for the second time and studying Cyber ​​Security at the College.
 </p>
 
 - From Itajubá/MG, 📍 living in Aracaju/SE
 
-- I'm currently learning about Typescript, React Native, React JS & NodeJs
+- Almost 2 years of experience on React Native, React JS & NodeJs
 
-- Node JS Frameworks: ExpressJS & AdonisJS
+- Node JS Frameworks that I use: ExpressJS & AdonisJS
 
-- Database Knowledge: PostgreSQL, MongoDB & Redis
+- Databases: PostgreSQL, MongoDB & Redis
 
 #
 
