@@ -1,12 +1,12 @@
 <div>
 
 <p>
-I'm a Junior Full Stack JavaScript Developer with almost 2 years of experience with hands-on projects and I'm currently more focused on React Native. I'm doing the Rocketseat Boot Camp Full Stack JS for the second time and studying Cyber ​​Security at the College.
+I'm a Junior Full Stack JavaScript Developer with 3 years of experience with hands-on projects and I'm currently more focused on React Native. I'm doing the Rocketseat Boot Camp Full Stack JS for the second time and studying Cyber ​​Security at the College.
 </p>
 
 - From Itajubá/MG, 📍 living in Aracaju/SE
 
-- Almost 2 years of experience on React Native, React JS & NodeJs
+- 3 years of experience on React Native, React JS & NodeJs
 
 - Node JS Frameworks that I use: ExpressJS & AdonisJS
 
