@@ -1,21 +1,12 @@
 <div>
 
 <p>
-I'm a Full Stack JavaScript Developer with 3 years of experience with hands-on projects and I'm currently more focused on React Native. I'm doing the Rocketseat Boot Camp Full Stack JS for the second time and studying Cyber ​​Security at the College.
+Mobile Developer.
 </p>
 
-- From Itajubá/MG, 📍 living in Aracaju/SE
+- Strong skills in Flutter / Dart, and razonable skills in Swift and Kotlin for Mobile Development.
 
-- 3 years of experience on React Native, React JS & NodeJs
-
-- Node JS Frameworks that I use: ExpressJS & AdonisJS
-
-- Databases: PostgreSQL, MongoDB & Redis
-
-#
-
-
-![rapzaDev github stats](https://github-readme-stats.vercel.app/api?username=rapzaDev&show_icons=true&theme=blueberry)
+- Strong skills in Javascript using React.js, Node.js and React Native.
 
 #
 
