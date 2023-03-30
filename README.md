@@ -4,7 +4,7 @@
 Mobile Developer.
 </p>
 
-- Strong skills in Flutter / Dart, and razonable skills in Swift and Kotlin for Mobile Development.
+- Strong Flutter/Dart skills and reasonable Swift and Kotlin skills for mobile development.
 
 - Strong skills in Javascript using React.js, Node.js and React Native.
 
