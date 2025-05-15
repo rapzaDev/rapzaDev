@@ -1,20 +1,27 @@
-<div>
+# Rafael Arango Pérez
 
-<p>
-Mobile Developer.
-</p>
+**Flutter Mobile Developer** | 2.5 yrs @ CV CRM | Remote | English B1→B2
 
-- Strong Flutter/Dart skills and reasonable Swift and Kotlin skills for mobile development.
+## 🚀 Highlights
 
-- Strong skills in Javascript using React.js, Node.js and React Native.
+* 📱 **15+ apps published** (Play Store & App Store)
+* 🐞 **45% fewer bugs in production** via testing and QA practices
+* ⚡ **60% performance gain** through build and architecture optimizations
+* 🔄 **30% more features delivered** using CI/CD pipelines
 
-#
+## 📂 Projects
 
-<p><strong>Reach me out 👇️<strong></p>
+| Project          | Play Store ✓ | App Store ✓ |
+| ---------------- | ------------ | ----------- |
+| CV CRM App       | ✅            | ✅           |
+| Avendre          | ✅            | ✅           |
+| Alfamaweb Portal | ✅            | ✅           |
 
+## 📖 Articles
 
-[![Gmail Badge](https://img.shields.io/badge/-rapzadev@gmail.com-8f1d14?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rapzdev@gmail.com)](mailto:rapzdev@gmail.com)
-[![Linkedin Badge](https://img.shields.io/badge/-rapzaDev-0900c3?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/rapzadev/)](https://www.linkedin.com/in/rapzadev/) 
+* [Technical Articles on Medium](https://medium.com/@timemobilecvcrm)
 
-</div>
- 
+## 📫 Contact
+
+* Gmail: [rapzadev@gmail.com](mailto:rapzadev@gmail.com)
+* LinkedIn: [linkedin.com/in/rapzadev](https://www.linkedin.com/in/rapzadev)
