@@ -80,6 +80,24 @@ When users open an app I built and it just works, that sense of delight inspires
   </a>
 </div>
 
+--------------------
+
+
+## ✍️ Technical Articles
+
+I enjoy writing about mobile architecture, performance optimization, and real-world engineering problems. Here are some articles I’ve published:
+
+- 🔔 **[Implementing FCM Notifications in Flutter Apps for iOS and Android](https://medium.com/@timemobilecvcrm/implementing-fcm-notifications-in-flutter-apps-for-ios-and-android-3aeb52ae05df)**  
+  Step-by-step guide on integrating Firebase Cloud Messaging, handling background/foreground payloads, and customizing behavior on each platform.
+
+- 🧭 **[State Management and Stack Navigation with WebView in Flutter](https://medium.com/@timemobilecvcrm/state-management-and-stack-navigation-with-webview-in-flutter-413d2a6eb458)**  
+  Demonstrates how to keep a Flutter `WebView` in sync with your app’s navigation stack using state management and deep linking techniques.
+
+- 📡 **[Scaling Notifications Beyond Firebase](https://medium.com/@timemobilecvcrm/scaling-notifications-beyond-firebase-036f8d76375a)**  
+  Discusses architectural decisions behind moving to a scalable push notification infrastructure and combining FCM with custom backends.
+
+--------------------
+
 ## 🌱 Community & Growth
 
 I share what I learn and learn from the Flutter community. I wrote articles and continuously engage in peer code reviews to help fellow developers.
