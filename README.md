@@ -1,6 +1,6 @@
 ## 👋 Hi, I’m Rafael
 
-I love turning ideas into mobile experiences that feel natural and intuitive. With 10 year of programming experience and 2.6+ years focusing on Flutter, I build apps that people rely on every day. Working remotely at CV CRM, I’ve guided my team and helped launch over 28 apps that serve thousands of users worldwide.
+I love turning ideas into mobile experiences that feel natural and intuitive. With 10 years of programming experience and 2.6+ years focusing on Flutter, I build apps that people rely on every day. Working remotely at CV CRM, I’ve guided my team and helped launch over 28 apps that serve thousands of users worldwide.
 
 ## ✨ What Drives Me
 
