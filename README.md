@@ -1,6 +1,6 @@
-## 👋 Hi, I’m Rafael
+## 👋 Rafael Arango • Flutter Tech Lead Who Builds Scalable Mobile Products
 
-I love turning ideas into mobile experiences that feel natural and intuitive. With 10 years of programming experience and 2.6+ years focusing on Flutter, I build apps that people rely on every day. Working remotely at CV CRM, I’ve guided my team and helped launch over 28 apps that serve thousands of users worldwide.
+I build fast, reliable mobile apps that scale. With over 28 published applications and 2.6+ years of Flutter expertise, I’ve helped companies like CV CRM, Alfamaweb, and Avendre bring ideas to life with measurable impact.
 
 ## ✨ What Drives Me
 
@@ -104,7 +104,7 @@ I share what I learn and learn from the Flutter community. I wrote articles and 
 
 ## 🤝 Let’s Connect
 
-If you’re building something meaningful and need a Flutter partner, let’s chat. I’m always up for a coffee chat or a collaborative brainstorm.
+Whether you're scaling a product or starting something new, I can help make it mobile-ready. Let’s build something exceptional.
 
 * 📧 [rapzadev@gmail.com](mailto:rapzadev@gmail.com)
 * 🔗 [linkedin.com/in/rapzadev](linkedin.com/in/rapzadev)
