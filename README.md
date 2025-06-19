@@ -1,6 +1,6 @@
-## 👋 Rafael Arango Pérez• Flutter Tech Lead Who Builds Scalable Mobile Products
+## 👋 Mobile Software Engineer Who Builds Scalable Mobile Products
 
-I build fast, reliable mobile apps that scale. With over 28 published applications and 2.6+ years of Flutter expertise, I’ve helped companies like CV CRM, Alfamaweb, and Avendre bring ideas to life with measurable impact.
+I build fast, reliable mobile apps that scale. With over 28 applications I have published and helped to publish, along with 2.6+ years of Flutter expertise, I’ve assisted companies like CV CRM, Alfamaweb, and Avendre in bringing ideas to life with measurable impact.
 
 ## ✨ What Drives Me
 
